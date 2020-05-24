@@ -1,3 +1,10 @@
 /authentication/__pycache__
 /backend/__pycache__
 /authentication/migrations/__pycache__
+
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+venv/
